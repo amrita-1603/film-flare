@@ -35,7 +35,7 @@ CineWave is a modern, responsive React web application for discovering and manag
 
 ## 📸 Screenshots
 
-![CineWave Home](public/logo.png)
+![CineWave Home](public/movieDux.png)
 *Home page with movie grid and filters*
 
 ## 🏁 Getting Started
@@ -47,8 +47,11 @@ CineWave is a modern, responsive React web application for discovering and manag
     ```sh
     npm start
 
-    Open http://localhost:3000 in your browser.
+3. Open http://localhost:3000 in your browser.
 
-📣 Contact
+4. Demo Link: https://film-flare-eosin.vercel.app/
+
+📣 Contact:
+
 Feel free to reach out via LinkedIn or email for collaboration or feedback!
 
