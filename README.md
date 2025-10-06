@@ -1,6 +1,6 @@
-# 🎬 CineWave
+# 🎬 MovieDux
 
-CineWave is a modern, responsive React web application for discovering and managing your favorite movies. Users can browse a curated movie list, filter by genre and rating, search by title, and maintain a personal watchlist—all with a clean, intuitive UI.
+MovieDux is a modern, responsive React web application for discovering and managing your favorite movies. Users can browse a curated movie list, filter by genre and rating, search by title, and maintain a personal watchlist—all with a clean, intuitive UI.
 
 ## 🚀 Features
 
@@ -35,7 +35,7 @@ CineWave is a modern, responsive React web application for discovering and manag
 
 ## 📸 Screenshots
 
-![CineWave Home](public/movieDux.png)
+![MovieDux Home](public/movieDux.png)
 *Home page with movie grid and filters*
 
 ## 🏁 Getting Started
@@ -47,11 +47,7 @@ CineWave is a modern, responsive React web application for discovering and manag
     ```sh
     npm start
 
-3. Open http://localhost:3000 in your browser.
+   Open http://localhost:3000 in your browser.
 
 4. Demo Link: https://film-flare-eosin.vercel.app/
-
-📣 Contact:
-
-Feel free to reach out via LinkedIn or email for collaboration or feedback!
 
